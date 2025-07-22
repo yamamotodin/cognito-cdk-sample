@@ -33,3 +33,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `npx cdk synth {StackName}`   合成されたCloudFormationテンプレートを作成する
 
 * ex: `cdk deploy CognitoCdkSampleStack` CognitoCdkSampleStackというスタックをAWSアカウントにデプロイする
+
+# 説明
+Claude Codeに適当に吐かせたcognito userpool作成のためのコードで教材用。
+テキストは別で用意、このサンプルを実用しないこと。
