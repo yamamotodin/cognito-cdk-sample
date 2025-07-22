@@ -2,7 +2,7 @@
   "name": "cognito-cdk-sample",
   "version": "0.1.0",
   "bin": {
-    "cognito-cdk-sample": "bin/cognito-cdk-sample.js"
+    "main": "bin/main.js"
   },
   "scripts": {
     "build": "tsc",
